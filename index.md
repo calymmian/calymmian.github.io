@@ -46,7 +46,7 @@
 
 中国科技大学 瀚海星云 bbs.ustc.edu.cn 202.38.64.3
 
-北航 未来花园 bbs.pubnic.buaa.edu.cn 202.112.136.2
+北航 未来花园 bbs.buaa.edu.cn 202.112.136.2
 
 浙江大学 西子浣纱城 bbs.zju.edu.cn 210.32.128.202
 
